@@ -14,6 +14,7 @@
   --orange: #149c68;
   --blue: #004443;
   --gray: #afafaf;
+  
 }
 
 html,
@@ -83,6 +84,7 @@ nav ul button {
   font-weight: bold;
   border-radius: 4px;
   text-decoration: none;
+  color: white;
 }
 
 nav ul button:hover {
@@ -488,5 +490,6 @@ footer .last {
   .footer-links {
     flex-direction: column;
     padding-left: 10%;
+    font-weight: bolder;
   }
 }
